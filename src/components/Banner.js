@@ -65,7 +65,7 @@ export const Banner = () => {
                   <p> From coding basics to advanced frameworks like React and Node.js, I love crafting digital solutions. I believe in user-centric design and thrive in collaborative environments.</p>
                      
                   <p> Excited to share my journey and explore new opportunities in the world of tech!</p>
-                  <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
+                  
               </div>}
             </TrackVisibility>
           </Col>
